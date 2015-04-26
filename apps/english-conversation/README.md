@@ -11,3 +11,25 @@
 ### Rule 2
 
 - Never study grammar rules
+
+### Rule 3
+
+- Learn with your **ears**, not with your **eyes**.
+
+### Rule 4
+
+- Learn deeply
+- "Repetition is the mother of skill."
+
+### Rule 5
+
+- Use *point of view* stories
+
+### Rule 6
+
+- Use authentic english materials
+- Use storybooks
+
+### Rule 7
+
+- Use *listen and answer* stories
