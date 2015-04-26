@@ -40,15 +40,20 @@
 1. []()
 1. []()
 
-## Conversation Exchange
+## Sites for conversation
 
-1. [Conversation Exchange](http://www.conversationexchange.com/)
+### 1. [Conversation Exchange](http://www.conversationexchange.com/)
+
 1. [Learn English words and phrases by reading jokes](http://www.conversationexchange.com/ce20_beta/resources/jks/mainMenu.php?lg=en&lang=en)
 1. [Conversation Topics](http://www.conversationexchange.com/ce20_beta/resources/conversation-topics.php?lg=en)
 
-## [Lang-8](http://lang-8.com/)
+### 2. [Lang-8](http://lang-8.com/)
 
-## [Speaky](http://www.gospeaky.com/)
+### 3. [Speaky](http://www.gospeaky.com/)
+
+### 4. [Easy Language Exchange](http://www.easylanguageexchange.com/)
+
+### 5. [How do you do?](http://howdoyou.do/)
 
 ## [engVid](http://www.engvid.com/)
 
