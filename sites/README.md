@@ -46,6 +46,10 @@
 1. [Learn English words and phrases by reading jokes](http://www.conversationexchange.com/ce20_beta/resources/jks/mainMenu.php?lg=en&lang=en)
 1. [Conversation Topics](http://www.conversationexchange.com/ce20_beta/resources/conversation-topics.php?lg=en)
 
+## [Lang-8](http://lang-8.com/)
+
+## [Speaky](http://www.gospeaky.com/)
+
 ## [engVid](http://www.engvid.com/)
 
 ## [ESL Cyber Listening Lab](http://www.esl-lab.com/)
