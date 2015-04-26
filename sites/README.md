@@ -55,6 +55,10 @@
 
 ### 5. [How do you do?](http://howdoyou.do/)
 
+### 6. [LingoGlobe](http://www.lingoglobe.com/)
+
+### 7. [govoluble](http://www.govoluble.com/)
+
 ## [engVid](http://www.engvid.com/)
 
 ## [ESL Cyber Listening Lab](http://www.esl-lab.com/)

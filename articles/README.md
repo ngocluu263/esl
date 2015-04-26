@@ -8,5 +8,5 @@
 1. [55 Most Commonly Used British and American Slang Words and Their Meanings](http://www.myenglishteacher.eu/blog/british-and-american-slang-words/)
 1. [5 Ways + 7 Amazing Websites to Improve Listening Skills](http://www.myenglishteacher.eu/blog/5-ways-7-amazing-websites-to-improve-listening-skills/)
 1. [Best English Grammar and Spelling Checkers Online](http://www.myenglishteacher.eu/blog/best-grammar-checkers/)
-1. []()
+1. [How to Approach Learning a New Language](http://www.lingoglobe.com/upload/ebooks/How_to_approach_learning_a_new_language.pdf)
 1. []()
