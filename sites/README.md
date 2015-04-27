@@ -62,3 +62,11 @@
 ## [engVid](http://www.engvid.com/)
 
 ## [ESL Cyber Listening Lab](http://www.esl-lab.com/)
+
+## Dictionaries
+
+### [Oxford Dictionaries](http://www.oxforddictionaries.com/)
+
+### [Linguee](http://www.linguee.com.br/)
+
+### [Google Translate](https://translate.google.com.br/)
