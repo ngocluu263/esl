@@ -9,10 +9,3 @@
 1. [5 Ways + 7 Amazing Websites to Improve Listening Skills](http://www.myenglishteacher.eu/blog/5-ways-7-amazing-websites-to-improve-listening-skills/)
 1. [Best English Grammar and Spelling Checkers Online](http://www.myenglishteacher.eu/blog/best-grammar-checkers/)
 1. [How to Approach Learning a New Language](http://www.lingoglobe.com/upload/ebooks/How_to_approach_learning_a_new_language.pdf)
-1. [My New TEDx Talk: One Simple Method to Learn Any Language](http://www.scotthyoung.com/blog/2015/04/27/tedx-learn-any-language/)
-  1. Find other people to practice (a native speaker or another language learner)
-    - livemocha
-    - italki
-  2. No talk in your native language
-  3. Start speaking
-1. []()
