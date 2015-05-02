@@ -3,8 +3,6 @@
 1. Read the book "English Grammar in Use - 4th Edition"
 1. Have classes on italki.com
 1. Read all the articles on esl.about.com
-  Paths:
-
   - Start Learning English
   - Continue Learning English
   - Intermediate Level English
