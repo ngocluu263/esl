@@ -73,3 +73,7 @@
 ### [Linguee](http://www.linguee.com.br/)
 
 ### [Google Translate](https://translate.google.com.br/)
+
+## [Rachel's English](https://www.rachelsenglish.com/)
+
+1. [How to Practice the Flap T](https://www.rachelsenglish.com/videos/how-practice-flap-t?show_alt=1)
