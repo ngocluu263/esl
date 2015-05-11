@@ -57,3 +57,19 @@ The Present Progressive uses **am**, **is** and **are**, plus the **-ing** form 
 - You're listening to me. (Statement)
 - Are you listening to me? (Question)
 - Your friend isn't listening to me. (Negative)
+
+### [Frequency Adverbs](http://www.azargrammar.com/grammarSpeaks/fegi/fegi_chapter01/fegi_01_003.html)
+
+The tricky thing about using frequency adverbs (FA) is word worder in a sentence. The FA comes BEFORE a simple present verb:
+
+- Jack **always comes** on time.
+
+EXCEPT... it comes AFTER **am**, **is** and **are**:
+
+- Jack **is never** late.
+
+Some FA have NEGATIVE meanings, so we can't put **not** in the same sentece with these words:
+
+- Seldom
+- Rarely
+- Never
