@@ -33,3 +33,9 @@ We use **Simple Present** to:
   - Trees **have** leaves.
 
 ### [1.1b The simple present and the present progressive](http://www.azargrammar.com/grammarSpeaks/fegi/fegi_chapter01/fegi_01_001b.html)
+
+- What**'s happening**?
+- How**'s it going**?
+- Glad everything**'s going** okay with you.
+- I**'m speaking** to you and you**'re listening** to me.
+- You**'re looking** at a computer screen and I**'m looking** at you.
