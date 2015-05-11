@@ -58,7 +58,7 @@ The Present Progressive uses **am**, **is** and **are**, plus the **-ing** form 
 - Are you listening to me? (Question)
 - Your friend isn't listening to me. (Negative)
 
-### [Frequency Adverbs](http://www.azargrammar.com/grammarSpeaks/fegi/fegi_chapter01/fegi_01_003.html)
+### [1.3 Frequency Adverbs](http://www.azargrammar.com/grammarSpeaks/fegi/fegi_chapter01/fegi_01_003.html)
 
 The tricky thing about using frequency adverbs (FA) is word worder in a sentence. The FA comes BEFORE a simple present verb:
 
@@ -74,7 +74,7 @@ Some FA have NEGATIVE meanings, so we can't put **not** in the same sentece with
 - Rarely
 - Never
 
-### [Final -S](http://www.azargrammar.com/grammarSpeaks/fegi/fegi_chapter01/fegi_01_004.html)
+### [1.4 Final -S](http://www.azargrammar.com/grammarSpeaks/fegi/fegi_chapter01/fegi_01_004.html)
 
 We use the **final -s** to:
 
@@ -83,3 +83,25 @@ We use the **final -s** to:
 
 1. Makes a **verb** SINGULAR:
   - My father work**s** in an office.
+
+### [1.5 Spelling of final -s/-es](http://www.azargrammar.com/grammarSpeaks/fegi/fegi_chapter01/fegi_01_005.html)
+
+- Add **-S** to almost all verbs: look**s**, hope**s**, eat**s**, feel**s**, learn**s**, leave**s**, etc.
+
+- Add **-ES** when a verb ends in:
+  - -CH: watch**es**
+  - -SH: wash**es**
+  - -S: pass**es**
+  - -X or -Z: fix**es**, buzz**es**
+  - when you change a -Y to an -I: fly -> fli**es**; try -> tri**es**
+
+But if there is a vowerl in front of -Y, just add **S**
+
+- buy -> buy**s** 
+- pay -> pay**s**
+
+We also have some irregular verbs:
+
+- go -> goes
+- do -> does
+- have -> has
