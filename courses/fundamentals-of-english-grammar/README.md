@@ -39,3 +39,21 @@ We use **Simple Present** to:
 - Glad everything**'s going** okay with you.
 - I**'m speaking** to you and you**'re listening** to me.
 - You**'re looking** at a computer screen and I**'m looking** at you.
+
+### [1.2 Forms of the simple present and the present progressive](http://www.azargrammar.com/grammarSpeaks/fegi/fegi_chapter01/fegi_01_002.html)
+
+In the Simple Present, verb following **he**, **she** or **it** ends in a **final -S**.
+
+- He walks to school.
+- She takes the bus.
+
+The Simple Present uses **do** and **does** to ask questions and make negatives.
+
+- Do you walk to school?
+- I don't go to school.
+
+The Present Progressive uses **am**, **is** and **are**, plus the **-ing** form of the verb.
+
+- You're listening to me. (Statement)
+- Are you listening to me? (Question)
+- Your friend isn't listening to me. (Negative)
