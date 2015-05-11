@@ -73,3 +73,13 @@ Some FA have NEGATIVE meanings, so we can't put **not** in the same sentece with
 - Seldom
 - Rarely
 - Never
+
+### [Final -S](http://www.azargrammar.com/grammarSpeaks/fegi/fegi_chapter01/fegi_01_004.html)
+
+We use the **final -s** to:
+
+1. Makes a **noun** PLURAL:
+ - You have two hand**s**.
+
+1. Makes a **verb** SINGULAR:
+  - My father work**s** in an office.
