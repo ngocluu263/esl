@@ -119,3 +119,40 @@ We **DON'T** use verbs like **know** in The Present Progressive.
 
 - **think** and
 - **have**.
+
+### [1.7 Present Verbs: short answers to yes/no questions](http://www.azargrammar.com/grammarSpeaks/fegi/fegi_chapter01/fegi_01_007.html)
+
+## Chapter 2 - Past Time
+
+### [2.0 Overview](http://www.azargrammar.com/grammarSpeaks/fegi/fegi_chapter02/fegi_02_000.html)
+
+### [2.1 Expressing past time: the simple past](http://www.azargrammar.com/grammarSpeaks/fegi/fegi_chapter02/fegi_02_001.html)
+
+When we want to talk about events in the past, we usually use the Simple Past.
+
+- Astronauts **landed** on the moon in 1969. (Regular verb)
+- I **ate** dinner with some friends last night. (Irregular verb)
+
+**OBS**: When English speakers choose a verb tense, they use Simple Present or Simple Past 90% of the time.
+
+### [2.2 Forms of the simple past: regular verbs](http://www.azargrammar.com/grammarSpeaks/fegi/fegi_chapter02/fegi_02_002.html)
+
+**Did** is a helper, like **do** and **does**.
+
+- Anna **didn't** finish the last exercise. (Negative)
+- **Did** you finish the last exercise? (Question)
+- Yes, I did. (Affirmative)
+- **Did** you see that bird? (Question)
+
+### [2.3 Forms of the simple past: be](http://www.azargrammar.com/grammarSpeaks/fegi/fegi_chapter02/fegi_02_003.html)
+
+Using be in the Simple Present:
+
+- I am a cartoon character.
+- Mrs. Rivera is a teacher.
+- You are a language learner.
+
+Using be in the Simple Past:
+
+- Mr. Wu was in the computer lab yesterday.
+- You were there, too.
