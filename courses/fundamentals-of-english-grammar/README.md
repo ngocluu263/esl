@@ -161,6 +161,7 @@ Using be in the Simple Past:
 
 Voiceless sounds (pronounce -ed **/t/**)
 
+||||
 | :---: | :---: | :---: |
 | /k/ | ask | asked |
 | /p/ | help | helped |
@@ -168,6 +169,7 @@ Voiceless sounds (pronounce -ed **/t/**)
 
 Voiced sounds (pronounce -ed **/d/**)
 
+||||
 | :---: | :---: | :---: |
 | /n/ | plan | planned |
 | /v/ | live | lived |
@@ -175,6 +177,7 @@ Voiced sounds (pronounce -ed **/d/**)
 
 For verbs that end in **-t** or **-d**, use /ǝd/
 
+|||
 | :---: | :---: |
 | start | started |
 | add | added |
