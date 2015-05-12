@@ -105,3 +105,17 @@ We also have some irregular verbs:
 - go -> goes
 - do -> does
 - have -> has
+
+### [1.6 Non-action verbs](http://www.azargrammar.com/grammarSpeaks/fegi/fegi_chapter01/fegi_01_006.html)
+
+We use a **non-action verb** when nothing is happening.
+
+- You **know** the English alphabet.
+- I **like** chocolate.
+
+We **DON'T** use verbs like **know** in The Present Progressive.
+
+**OBS**: There are two verbs that have both action and non-action meanings. Those verbs are:
+
+- **think** and
+- **have**.
