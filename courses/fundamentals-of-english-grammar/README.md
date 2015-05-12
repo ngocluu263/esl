@@ -181,3 +181,19 @@ For verbs that end in **-t** or **-d**, use /ǝd/
 | :---: | :---: |
 | start | started |
 | add | added |
+
+### [2.5 Spelling rules of -ing and -ed endings](http://www.azargrammar.com/grammarSpeaks/fegi/fegi_chapter02/fegi_02_005.html)
+
+When will we double the last consonant, to add -ing or -ed?
+
+**Rule #1**: When the verb finish with CVC and have one syllable.
+
+- plan -> planning or planned
+
+**Rule #2: When the verb have two syllables, if we say the **second** syllable louder, then we should double the consonant.
+
+- be**gin** -> beginning | past is began (irregular)
+
+When the first syllable is louder, we do not double the consonant.
+
+- **hap**pen -> happening or happened
