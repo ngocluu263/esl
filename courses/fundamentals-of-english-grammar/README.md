@@ -158,3 +158,23 @@ Using be in the Simple Past:
 - You were there, too.
 
 ### [2.4 Regular Verbs: pronunciation of -ed endings](http://www.azargrammar.com/grammarSpeaks/fegi/fegi_chapter02/fegi_02_004.html)
+
+Voiceless sounds (pronounce -ed **/t/**)
+
+| :---: | :---: | :---: |
+| /k/ | ask | asked |
+| /p/ | help | helped |
+| /sh/ | wash | washed |
+
+Voiced sounds (pronounce -ed **/d/**)
+
+| :---: | :---: | :---: |
+| /n/ | plan | planned |
+| /v/ | live | lived |
+| /ē/ | agree | agreed |
+
+For verbs that end in **-t** or **-d**, use /ǝd/
+
+| :---: | :---: |
+| start | started |
+| add | added |
