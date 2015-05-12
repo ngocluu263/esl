@@ -156,3 +156,5 @@ Using be in the Simple Past:
 
 - Mr. Wu was in the computer lab yesterday.
 - You were there, too.
+
+### [2.4 Regular Verbs: pronunciation of -ed endings](http://www.azargrammar.com/grammarSpeaks/fegi/fegi_chapter02/fegi_02_004.html)
