@@ -206,3 +206,7 @@ The verbs have four principal parts:
 1. **Simple Past**: called or ate
 1. **Past Participle**: called or eaten
 1. **Present Participle**: calling eating
+
+### [2.7 Irregular Verbs](http://www.azargrammar.com/grammarSpeaks/fegi/fegi_chapter02/fegi_02_007.html)
+
+### []()
