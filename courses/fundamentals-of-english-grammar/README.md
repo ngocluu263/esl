@@ -197,3 +197,12 @@ When will we double the last consonant, to add -ing or -ed?
 When the first syllable is louder, we do not double the consonant.
 
 - **hap**pen -> happening or happened
+
+### [2.6 The principal parts of the verb](http://www.azargrammar.com/grammarSpeaks/fegi/fegi_chapter02/fegi_02_006.html)
+
+The verbs have four principal parts:
+
+1. **Simple Form**: call or eat
+1. **Simple Past**: called or ate
+1. **Past Participle**: called or eaten
+1. **Present Participle**: calling eating
