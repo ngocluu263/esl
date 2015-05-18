@@ -1,6 +1,6 @@
 # [esl.about.com](esl.about.com)
 
-## [Start Learning English](http://esl.about.com/od/beginningenglish/u/start.htm)
+## [1. Start Learning English](http://esl.about.com/od/beginningenglish/u/start.htm)
 
 ### Topics
 
@@ -10,8 +10,8 @@
 - A, An, The ✔
 - Spelling Rules in English ✔
 - Spelling Problems in English ✔
-- Hello! My Name is Ken - The Present Tense of "to Be"
-- Where Were You Yesterday? - The Past Tense of "to Be"
+- Hello! My Name is Ken - The Present Tense of "to Be" ✔
+- Where Were You Yesterday? - The Past Tense of "to Be" ✔
+- Prepositions - In, At and On for Times ✔
 - Prepositions - In, To, On and And for Places
-- Prepositions - In, At and On for Times
 - Eight Parts of Speech in English
