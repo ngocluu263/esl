@@ -15,5 +15,5 @@
 1. English Grammar in Use - 4th Edition
 1. Listen to [VOA Learning English](https://play.google.com/store/apps/details?id=com.study.english.voa) audios
 1. Listen to [manythings](http://www.manythings.org/voa/) audios
-1. Have classes on italki.com
+1. Classes on italki.com
 1. English for Teaching Purpouses - course
