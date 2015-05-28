@@ -82,3 +82,5 @@
 ## [Exam English](http://www.examenglish.com/index.html)
 
 ## [Cambridge English](http://www.cambridgeenglish.org/)
+
+1. [How to prepare for Cambridge English: First (FCE)](http://www.cambridgeenglish.org/exams/first/how-to-prepare/)
